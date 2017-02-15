@@ -1,7 +1,7 @@
-{
+	{
   "name": "meteor-pwpush",
   "version": "1.0.0",
-  "description": "Meteor sends passwords to new users in plaintext. Let's not do that.",
+  "description": "Integrates Meteor with pwpush, because why not.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
