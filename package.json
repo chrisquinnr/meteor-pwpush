@@ -1,0 +1,24 @@
+{
+  "name": "meteor-pwpush",
+  "version": "1.0.0",
+  "description": "Meteor sends passwords to new users in plaintext. Let's not do that.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisquinnr/meteor-pwpush.git"
+  },
+  "keywords": [
+    "pwpush",
+    "passwords",
+    "meteor"
+  ],
+  "author": "@chrisquinnr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisquinnr/meteor-pwpush/issues"
+  },
+  "homepage": "https://github.com/chrisquinnr/meteor-pwpush#readme"
+}
